@@ -1,0 +1,22 @@
+.banner{
+  background-image: linear-gradient(rgb(0, 0, 0, 0.3), rgb(0, 0, 0, 0.3)), url("../../images/jakarta.jpg");
+  background-size: 100% 100%;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner .container-banner{
+  margin: auto;
+  width: 900px;
+}
+
+.banner .container-banner h1{
+  color: white;
+}
+
+.banner .container-banner h3{
+  color: lightgray;
+}
+
+
+
